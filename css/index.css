@@ -1,0 +1,61 @@
+html::-webkit-scrollbar{ /* largura*/
+    width: 7px;
+}
+
+html::-webkit-scrollbar-track{ /*fundo*/
+    background: var(--bg-color);
+}
+.nav-principal{ /*barra lateral*/
+    background-color:rgb(86, 86, 181)
+}
+.main-format{
+    background-color: var(--bg-color);
+    height: 100vh;
+    border-radius: 10px;
+}
+.color-text{
+    color: var(--black);
+}
+.bg-nav{
+    background-color: rgba(255, 255, 255,0.5);
+    border: none;
+}
+.tm-img{ /*imagens laterais*/
+    width: 100%;
+}
+h3, h5{
+    font-size: 3rem;
+}
+.p-2{ /* Tamanho da fonte e formatação dos principais textos*/
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.teste{ /*Tamanho da barra final*/
+    height: 120px;
+    background-color: #40cfff;
+}
+a{ 
+    text-decoration: none;
+    color: var(--black);
+}
+.btn-redondo{ /*Formato dos ícones sociais*/
+    border-radius: 50%;
+}
+.txt-pq{ /*Tamanho das letras dentro da barra final*/
+    font-size: 0.9rem;
+}
+
+.bg-primary{
+    background-color:cornflowerblue;
+}
+
+.card-text{
+    text-align: center; 
+}
+
+.py-6{
+    background-color: #5788f2;
+}
+.carousel-inner{
+    justify-content: center;
+}

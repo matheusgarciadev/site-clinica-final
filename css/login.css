@@ -1,0 +1,36 @@
+body{
+    background-image: url('../img/login.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+ }
+ 
+ h2{
+    color: #00ffc3;
+    }
+    
+ label{
+       color: white;
+    }
+ 
+    .container{
+       max-width: 550px; /* Largura máxima do contêiner */
+       margin: 0 auto; /* Centralizar o contêiner horizontalmente */
+       padding: 20px; /* Espaçamento interno do contêiner */
+       border: 1px solid #ffffff8b; /* Borda sólida com cor cinza claro */
+       border-radius: 10px; /* Borda arredondada */
+       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+       background-color: #aab5f55a; /* Cor de fundo do contêiner */
+          }
+          .py-6{
+             background-color: #5788f2;
+         }
+         .carousel-inner{
+             justify-content: center;
+         }
+         .teste{ /*Tamanho da barra final*/
+          height: 120px;
+          background-color: #40cfff;
+      }
+      .txt-pq{ /*Tamanho das letras dentro da barra final*/
+       font-size: 0.9rem;
+      }
